@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Xertz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning How to code
+- 💞️ I’m looking to collaborate on Arduino projects
+- 📫 How to reach me DISCORD-xertz.me
+-                     INSTAGRAM-Xertz
 
 <!---
 Xertz/Xertz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
